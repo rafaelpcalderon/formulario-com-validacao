@@ -3,7 +3,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-image: url(/src/img/3715c9cd9f8486e8d371be79339c8492.jpeg);
+    background-image: url(./3715c9cd9f8486e8d371be79339c8492.jpeg);
     background-size: contain;
     font-family: "Roboto", sans-serif;
     overflow: hidden;
